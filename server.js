@@ -33,7 +33,7 @@ async function sendNotification(token, taskName) {
 }
 
 // Define the cron job
-const job = new cron.CronJob('*/5 * * * * *', async () => {
+const job = new cron.CronJob('*/30 * * * * *', async () => {
   console.log('Running cron job...');
 
   try {
