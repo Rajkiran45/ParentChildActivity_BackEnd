@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "parentsactivityapp",
+  "private_key_id": "14800c43d85c761fca64f2f0062c16d57ecaafb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAUl8P9HLjy7sC\nSuuHAcZAabYub2vgrO+hEYL7brjJXsBvUhE/I7Vm9Qn5iwtQXq2ESU38ZmdL1e5D\nE0xLSiVf+wB+zbF9quXb0n7h5XXuRp4D5DRauiBc/cnKd5Nvz/5DFV2negQYI7ms\nbgw2GX8glsLySEBuqxlfeGDtkW4iSeDDMIqxZMLyMq7k72qfuBy25wAUAJrSllsc\nt1kDuAUxr/azymb/7aRhcyYof86L1oC+QdbbCKckB/mh2HnehMl22+G/B8n0T/YR\nRaPtys3jVd7Fo/08bryCyEsFhz7AmvCJX3TP8rl144p3L6/82/8Cl6MRPSDxSpn7\nFb0GngqtAgMBAAECggEAJuyE8OW4mwIQx1YCdUCWr1K13JAQdViK5z50FA9EtvzG\nVcF2XCEOBdhyPF832vxOggeUERFotqCFqG2vc01+Yv6aCw/2bEi6XNMteurGA4On\nV4JIVlR1WFzFCoVJAchG3azlV5AKZBhW698Z+ZkPcbkRm5ej8sIOUJQ8idh1Qdr3\nwTw8H98zE+HL93BQ+SpI4chrBqgkqNeBAXeDpc/7Id+Mi4IoUXiQgu6CJ7fOK7WH\n49elaK0iqUbiaXIEW4VC/F7hRrjJXTiyU+rtsUE5fG/92JJMKsOd5Hug8vaBoX83\neLghCvKrCn0yZ8iFZWoFfPxRI/icvvGSBoqoTP2kwQKBgQDzILgsh/y1TqxJC3pg\n0WWljxsRqFHhs0e291JEECwBAtT0mE6jtNneFc3Et3k7LgZV0xONQp3256zXVspA\n5auCzUmDL0KBgTeV5ldAUMGQ0e0jVsk0gQtFFLlts0UJvx0qIJ9JFFA8dkxJbPBF\nikVTueRJ4cECU2tUYwsbVLXuOwKBgQDKgQrK78ABiS6zLnNU+LhU9DNxX0TkpRgZ\n786YPtNVDep6oxMA/AGETEhU+BcjM75/CrAdvR2Ts636JF6N8PFkRrfHwZpbesaN\nAofVouyfASsU0kmNzonmcZR4/JNVlbOkmJ+OzNsxZVZ2/CP8jXdE7xyv9FCQa5G+\nLi9m383UNwKBgFxOhd5SWv2zOvIYq4PqvH7ZEFvp3fylBotO5yr0QOC5ZITg9qps\n1XLeMFuJlTuEw9793qR5MGQ3nYW8a9mr2Sw2KLznyoZEuwfshh/jCTqkmTYbkxSe\nEdtOfQBLWeDTcI04CYHDdpseBuSxuZ+NWbjqEOSEE7WAWnWVjPf5d4FVAoGBAML/\np+jrHTVdaD7ax+xW5QnJbZAKcUjLQX4YUhSAyvfoQpZ9Wdtk0AEZg71ueLlJJnMn\nU5gPd9+28h0h0HtWPNyWzHnqkDzu6Sr3+N1b2gbzFQ0jwfhvnpLtZE9syGNtmGMz\nJNJZqejS8IP7IJwdjXAv4Kv+02V+cAV2a+bgNE/ZAoGBAOv6UZF+hknbypcvJ/mL\nsErB1ym7JVRZD5UmDsCsXqz1QK1isEw50r31STO9+sZ7VEmuBypOg3IF3xv/+VOI\nsjJhxbYmjGCuWDAEiSMJlQo5HsSHGXp28+CNkAJAYAX2n5O3bwfW14gk27p4feQB\n+Q0JVdqePdRi/+FiE0g8k+/m\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xcjtl@parentsactivityapp.iam.gserviceaccount.com",
+  "client_id": "110030351821111791602",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xcjtl%40parentsactivityapp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
